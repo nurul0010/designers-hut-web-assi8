@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Designers Hut!
+
+1.you can hire designers hare
+2.all the designers set there amount of salary and you choose them by salary range
+3.you can preview their details 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
