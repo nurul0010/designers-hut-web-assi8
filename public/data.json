@@ -1,0 +1,217 @@
+[
+    {
+        "id": "61518e647960f7d62071d9e1",
+        "isActive": false,
+        "hireRate": 3173.97,
+        "picture": "https://randomuser.me/api/portraits/men/35.jpg",
+        "age": 34,
+        "eyeColor": "brown",
+        "name": "Jasmine Dickerson",
+        "gender": "female",
+        "company": "PERKLE",
+        "email": "jasminedickerson@perkle.com",
+        "phone": "+1 (972) 418-2374",
+        "address": "853 Montague Street, Chloride, Louisiana, 193",
+        "about": "Dolor sint sint nulla fugiat laboris adipisicing reprehenderit est ipsum non qui. Sint ipsum ipsum incididunt anim eu minim ullamco anim excepteur reprehenderit veniam deserunt. Cupidatat nulla proident commodo ex exercitation adipisicing eiusmod proident do. Proident velit dolor tempor reprehenderit. Non dolore in esse proident eu amet aute aliqua duis ut qui nulla sint. Elit laborum aliquip culpa veniam ipsum nulla excepteur culpa.\r\n",
+        "registered": "2020-10-12T08:12:17 -06:00",
+        "latitude": -75.070872,
+        "longitude": -37.381688,
+        "tags": [
+            "laboris",
+            "qui",
+            "velit",
+            "minim",
+            "reprehenderit",
+            "occaecat",
+            "in"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Valencia Ingram"
+            },
+            {
+                "id": 1,
+                "name": "Angie Murphy"
+            },
+            {
+                "id": 2,
+                "name": "Holmes Floyd"
+            }
+        ],
+        "greeting": "Hello, Jasmine Dickerson! You have 3 unread messages.",
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": "61518e6409c1d936bfb3be47",
+        "isActive": false,
+        "hireRate": 1669.96,
+        "picture": "https://randomuser.me/api/portraits/men/38.jpg",
+        "age": 27,
+        "eyeColor": "green",
+        "name": "Campbell Wynn",
+        "gender": "male",
+        "company": "NIMON",
+        "email": "campbellwynn@nimon.com",
+        "phone": "+1 (876) 437-2232",
+        "address": "853 Tabor Court, Jamestown, Alaska, 945",
+        "about": "Sint esse proident incididunt do tempor nostrud enim nostrud ad. Do qui Lorem ipsum officia excepteur velit aliquip ex anim proident ad. Nisi incididunt dolore eiusmod enim. Non laboris consectetur ut aute consectetur sint quis. Anim quis incididunt occaecat ex consectetur id cupidatat sunt ea est eu.\r\n",
+        "registered": "2017-08-16T01:38:01 -06:00",
+        "latitude": -57.50246,
+        "longitude": -110.64544,
+        "tags": [
+            "dolore",
+            "amet",
+            "minim",
+            "nisi",
+            "aliquip",
+            "reprehenderit",
+            "tempor"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Mckee Turner"
+            },
+            {
+                "id": 1,
+                "name": "Valerie Hardy"
+            },
+            {
+                "id": 2,
+                "name": "Eula Mcfarland"
+            }
+        ],
+        "greeting": "Hello, Campbell Wynn! You have 9 unread messages.",
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": "61518e643283288df798e0a7",
+        "isActive": true,
+        "hireRate": 3229.73,
+        "picture": "https://randomuser.me/api/portraits/men/40.jpg",
+        "age": 30,
+        "eyeColor": "blue",
+        "name": "Robbins Mendez",
+        "gender": "male",
+        "company": "MAGNEMO",
+        "email": "robbinsmendez@magnemo.com",
+        "phone": "+1 (889) 518-2945",
+        "address": "789 Graham Avenue, Dupuyer, Utah, 2219",
+        "about": "Ex incididunt exercitation dolore non id quis minim amet magna anim proident incididunt adipisicing incididunt. Amet culpa incididunt non Lorem. Sunt nostrud exercitation culpa tempor cillum exercitation. Elit et duis dolore non laboris qui labore proident ipsum quis ullamco fugiat deserunt ut. Nisi nisi ea culpa ex quis exercitation sint proident ullamco nisi. Esse cupidatat laboris nisi anim minim dolore id. Reprehenderit incididunt minim consectetur ad.\r\n",
+        "registered": "2021-06-05T03:54:56 -06:00",
+        "latitude": -83.642308,
+        "longitude": 168.658121,
+        "tags": [
+            "ad",
+            "tempor",
+            "nulla",
+            "veniam",
+            "duis",
+            "aute",
+            "proident"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Carr Dudley"
+            },
+            {
+                "id": 1,
+                "name": "Quinn Mason"
+            },
+            {
+                "id": 2,
+                "name": "Magdalena Hendrix"
+            }
+        ],
+        "greeting": "Hello, Robbins Mendez! You have 1 unread messages.",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "id": "61518e64289e835fdbe2771f",
+        "isActive": true,
+        "hireRate": 2243.31,
+        "picture": "https://randomuser.me/api/portraits/men/20.jpg",
+        "age": 20,
+        "eyeColor": "blue",
+        "name": "Tessa Kirkland",
+        "gender": "female",
+        "company": "ACCUPHARM",
+        "email": "tessakirkland@accupharm.com",
+        "phone": "+1 (858) 418-2905",
+        "address": "945 Lewis Place, Oberlin, Ohio, 8934",
+        "about": "Ex dolor consectetur exercitation aliqua nulla esse ea aute occaecat adipisicing consectetur labore cupidatat. Amet elit eiusmod ipsum cillum fugiat non commodo amet cupidatat qui sit nisi. Cupidatat laboris amet minim aliqua cillum laboris ullamco deserunt dolor cupidatat commodo do. Ut occaecat commodo do culpa adipisicing consectetur officia sunt enim. Sint aute tempor labore id do. Aliqua eiusmod qui quis laborum enim qui tempor eu officia dolore laboris exercitation sit id.\r\n",
+        "registered": "2018-05-17T03:06:22 -06:00",
+        "latitude": -5.504825,
+        "longitude": 99.038623,
+        "tags": [
+            "dolor",
+            "quis",
+            "aute",
+            "tempor",
+            "enim",
+            "consectetur",
+            "in"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Wilkins Good"
+            },
+            {
+                "id": 1,
+                "name": "Jillian Hahn"
+            },
+            {
+                "id": 2,
+                "name": "Jackson Reynolds"
+            }
+        ],
+        "greeting": "Hello, Tessa Kirkland! You have 2 unread messages.",
+        "favoriteFruit": "apple"
+    },
+    {
+        "id": "61518e64f2c95ae759424b30",
+        "isActive": false,
+        "hireRate": 3243.60,
+        "picture": "https://randomuser.me/api/portraits/men/65.jpg",
+        "age": 23,
+        "eyeColor": "blue",
+        "name": "Pollard Walters",
+        "gender": "male",
+        "company": "GRACKER",
+        "email": "pollardwalters@gracker.com",
+        "phone": "+1 (937) 493-2745",
+        "address": "202 Tampa Court, Gouglersville, Idaho, 9523",
+        "about": "Adipisicing voluptate et voluptate aliquip qui consectetur. Nulla pariatur minim ea elit incididunt ex proident duis consectetur. Mollit proident eiusmod cupidatat ipsum adipisicing. Quis irure labore et cillum pariatur anim proident.\r\n",
+        "registered": "2014-06-03T07:35:11 -06:00",
+        "latitude": -33.077698,
+        "longitude": -98.678454,
+        "tags": [
+            "aliqua",
+            "commodo",
+            "consequat",
+            "nisi",
+            "duis",
+            "ullamco",
+            "Lorem"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Howell Cross"
+            },
+            {
+                "id": 1,
+                "name": "Lourdes Levy"
+            },
+            {
+                "id": 2,
+                "name": "Duffy Tanner"
+            }
+        ],
+        "greeting": "Hello, Pollard Walters! You have 7 unread messages.",
+        "favoriteFruit": "strawberry"
+    }
+]
